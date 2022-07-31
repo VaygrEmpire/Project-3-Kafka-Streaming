@@ -1,6 +1,6 @@
 # P3 
 - ### Big Data Capstone Project
-- ### Bryan, Yueqi, Cameron, Grace, Yash, Ryan, Jacob, Mark, Mandeep, Brandon, Betty
+- ### Bryan, Yueqi, Cameron, Grace, Yash, Hyung Ro Yoon, Jacob, Mark, Mandeep, Brandon, Betty
 
 ## Part 1 : Pubsub & Kafka 
 - ### Stage 1.1 - Producer
